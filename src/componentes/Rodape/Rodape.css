@@ -1,7 +1,7 @@
 /* src/componentes/Rodape/index.js */
 
 .footer {
-    background: #6278F7;
+    background: rgba(241, 126, 20, 0.65);
     color: #FFF;
     padding: 80px;
     display: flex;
